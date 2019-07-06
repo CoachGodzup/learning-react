@@ -8,6 +8,7 @@ Component is made in this order
 1. Static
 1. Self Contained
 1. Updatable
+1. Conditional Rendering
 
 # Create React app default Readme
 

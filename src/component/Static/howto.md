@@ -4,7 +4,7 @@
 Sincerely, only a notepad and a sufficiently updated node.js version is necessary. However I suggest the following to speed up seamlessy the develop
 
  - An IDE (I'm using Visual Studio Code, but also Atom or WebStorm could fit)
- - create-react-app (for the init part
+ - create-react-app (for the init part)
  - If you're using VSCode, some helper package such as ES7 React/Redux/GraphQl/React-Native snippets
 
 ## How to create this component

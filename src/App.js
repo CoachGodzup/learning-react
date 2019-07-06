@@ -3,6 +3,7 @@ import './App.css';
 import Static from './component/Static/Static'
 import SelfContained from './component/SelfContained/SelfContained'
 import Updatable from './component/Updatable/Updatable'
+import ConditionalRendering from './component/ConditionalRendering/ConditionalRendering';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Static />
       <SelfContained />
       <Updatable />
+      <ConditionalRendering />
     </div>
   );
 }
