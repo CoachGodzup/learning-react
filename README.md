@@ -1,3 +1,16 @@
+# Learn react
+
+A simple project to learn react.
+Every single component has a simple guide inside his folder.
+
+Component is made in this order
+
+1. Static
+1. Self Contained
+1. Updatable
+
+# Create React app default Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
